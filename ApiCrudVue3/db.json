@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "curso Vue3",
+      "author": "Ricardo",
+      "content": "Este é um artiigo sobre Vue 3"
+    },
+    {
+      "id": 2,
+      "title": "curso JS",
+      "author": "Ricardo",
+      "content": "Este é um artiigo sobre Vue 3"
+    },
+    {
+      "id": 3,
+      "title": "curso TypeScript",
+      "author": "Ricardo",
+      "content": "Este é um artiigo sobre Vue 3"
+    },
+    {
+      "title": "abx",
+      "content": "",
+      "author": "gg",
+      "id": 4
+    },
+    {
+      "title": "yyy",
+      "content": "",
+      "author": "999",
+      "id": 5
+    },
+    {
+      "title": "rrrr",
+      "content": "",
+      "author": "777",
+      "id": 6
+    },
+    {
+      "title": "uiuiuiu",
+      "content": "",
+      "author": "7777",
+      "id": 7
+    }
+  ]
+}
